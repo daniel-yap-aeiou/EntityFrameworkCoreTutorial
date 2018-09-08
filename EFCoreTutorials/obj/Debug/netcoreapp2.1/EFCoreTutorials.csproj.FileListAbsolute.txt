@@ -1,0 +1,11 @@
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.1\EFCoreTutorials.deps.json
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.1\EFCoreTutorials.runtimeconfig.json
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.1\EFCoreTutorials.runtimeconfig.dev.json
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.1\EFCoreTutorials.dll
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.1\EFCoreTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.1\EFCoreTutorials.AssemblyInfoInputs.cache
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.1\EFCoreTutorials.AssemblyInfo.cs
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.1\EFCoreTutorials.pdb
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.1\EFCoreTutorials.dll
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.1\EFCoreTutorials.pdb
+C:\Users\Daniel Yap\source\repos\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.1\EFCoreTutorials.csprojAssemblyReference.cache
