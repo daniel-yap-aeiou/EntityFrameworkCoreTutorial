@@ -1,7 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using static EFCoreTutorials.Enums;
 
 namespace EFCoreTutorials
 {
@@ -32,6 +34,13 @@ namespace EFCoreTutorials
                 .WithMany(s => s.StudentCourses)
                 .HasForeignKey(sc => sc.CourseId);
 
+
+            var converter = new EnumToStringConverter<StudentType>();
+
+            modelBuilder.Entity<Student>()
+                .Property(e => e.StudentType)
+                //.HasConversion(converter)
+                .HasDefaultValue(StudentType.None);
 
             modelBuilder.Entity<Student>()
                 .HasOne(s => s.StudentAddress)

@@ -67,7 +67,8 @@ namespace EFCoreTutorials
 
                 var std = new Student()
                 {
-                    Name = "Bill"
+                    Name = "Bill",
+                    StudentType = Enums.StudentType.University
                 };
 
                 context.Students.Add(std);
