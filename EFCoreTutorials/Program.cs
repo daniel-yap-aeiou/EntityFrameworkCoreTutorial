@@ -30,7 +30,7 @@ namespace EFCoreTutorials
             using (var context = new SchoolContext())
             {
                 return context.Students
-                    .FromSql<Student>($"Select * from Students Where StudentId = {studentId}")
+                    .FromSqlRaw<Student>($"Select * from Students Where StudentId = {studentId}")
                     .Include(s => s.StudentAddress)
                     .Include(s => s.StudentCourses)
                     .Include(s => s.Grade)

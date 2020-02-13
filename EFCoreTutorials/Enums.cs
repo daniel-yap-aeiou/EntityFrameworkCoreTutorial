@@ -12,7 +12,11 @@ namespace EFCoreTutorials
             Primary,
             Secondary,
             College,
-            University
+            University,
+            Master,
+            PostGrad,
+            Doctor,
+            Professor
         }
     }
 }
