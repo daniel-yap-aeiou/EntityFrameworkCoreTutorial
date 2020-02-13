@@ -15,6 +15,7 @@ namespace EFCoreTutorials
             University,
             Master,
             PostGrad,
+            Phd,
             Doctor,
             Professor
         }
