@@ -1,8 +1,8 @@
-# Ef Core Tutorials
+# Entity Framework Core Tutorials
 
 Reference:
 <br/>
-EF-Core: http://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx
+Entity Framework Core: http://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx
 <br/>
 aspnetCore: https://docs.microsoft.com/en-us/dotnet/core/tutorials/
 <br />
